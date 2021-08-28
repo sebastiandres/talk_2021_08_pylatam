@@ -1,8 +1,7 @@
-# Talk template
-
-Template para github para crear nuevas charlas y presentaciones. 
-Tiene la estructura definida para MIS charlas.
-
-No es necesario clonar. Al crear un nuevo repositorio, usar "template" y seleccionar "talk_template".
-
-Ejemplo funcionando: [links.html](https://sebastiandres.github.io/talk_template/)
+## Charla
+* **Fecha**: 28 Agosto 2021
+* **Título**: Presentaciones Interactivas con Jupyter Notebook + RISE. Todo lo que necesitas saber en 30 minutos.
+* **Resumen**: ¿Sigues usando PPTs para presentar código? Esta charla te enseñará todo lo que necesitas saber para hacer una presentación completamente interactiva (código, gráficos, encuestas, otros) usando jupyter notebook y su extensión RISE.
+* **Lugar**: PyCon Latam 2021.
+* **Contexto**: ¡Mi tercera PyCon!
+* **Visualización**: [Diversas opciones](https://sebastiandres.github.io/talk_2021_08_pylatam/)
